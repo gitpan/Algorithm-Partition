@@ -1,5 +1,8 @@
 Revision history for Algorithm-Partition
 
+0.04    May 25 2007
+        CPAN RT #27247 - fixed POD.  No code changes.
+
 0.03    May 25 2007
         Set 'LICENSE' option in Makefile.PL.  No code changes.
 

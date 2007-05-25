@@ -10,11 +10,11 @@ Algorithm::Partition - Partition a set of integers.
 
 =head1 VERSION
 
-Version 0.03
+Version 0.04
 
 =cut
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 =head1 SYNOPSIS
 
@@ -165,7 +165,7 @@ L<http://search.cpan.org/dist/Algorithm-Partition>
 
 =head1 ACKNOWLEDGEMENTS
 
-NJIT, Professor Joseph Leung, and the NP-Completess course.
+NJIT, Professor Joseph Leung, and the NP-Completeness course.
 
 =head1 COPYRIGHT & LICENSE
 
