@@ -1,5 +1,8 @@
 Revision history for Algorithm-Partition
 
+0.03    May 25 2007
+        Set 'LICENSE' option in Makefile.PL.  No code changes.
+
 0.02    April 10 2007
         Added META.yml.  No code changes.
 
